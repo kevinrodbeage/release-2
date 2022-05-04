@@ -7,7 +7,7 @@ module.exports = {
     'next',
     'next-major',
     {
-      name: 'devel',
+      name: 'develop',
       prerelease: true,
     },
     {
