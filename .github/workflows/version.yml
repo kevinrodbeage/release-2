@@ -1,0 +1,24 @@
+name: Versioning
+on:
+  push:
+    branches:
+      - develop
+jobs:
+  Build-Deploy:
+    name: Build-Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14.18.2
+          registry-url: https://npm.pkg.github.com/
+      - run: git config user.name ${GITHUB_ACTOR}
+      - run: git config user.email ${GITHUB_ACTOR}@users.noreply.github.com
+      - name: Install deps (with cache) ⏬
+        uses: bahmutov/npm-install@v1
+      - name: Generate release 🔖 🎁 🎉
+        run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
