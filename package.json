@@ -1,5 +1,5 @@
 {
-  "name": "release-2",
+  "name": "@kevinrodbeage/release-2",
   "version": "1.0.0",
   "description": "The best project",
   "homepage": "https://github.com/kevinrodbeage/release-2.git",
@@ -19,7 +19,7 @@
     "node": ">=14"
   },
   "keywords": [],
-  "author": "Pepe",
+  "author": "kevinrodbeage",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
