@@ -1,3 +1,12 @@
+## [1.0.0-develop.3](https://github.com/kevinrodbeage/release-2/compare/v1.0.0-develop.2...v1.0.0-develop.3) (2022-05-05)
+
+
+### Features
+
+* 2 ([5cdc1fe](https://github.com/kevinrodbeage/release-2/commit/5cdc1fec8278a081fa80a56dac39043396ef494b))
+* 3 ([96772db](https://github.com/kevinrodbeage/release-2/commit/96772dbf3aff1decf1f5844d37e5b403ef22f96b))
+* 4 ([29bf5a5](https://github.com/kevinrodbeage/release-2/commit/29bf5a57bf43698d4171e9a131d17dd3b688c645))
+
 ## [1.0.0-develop.2](https://github.com/kevinrodbeage/release-2/compare/v1.0.0-develop.1...v1.0.0-develop.2) (2022-05-05)
 
 
