@@ -1,6 +1,6 @@
 {
   "name": "@kevinrodbeage/release-2",
-  "version": "1.1.0-develop.3",
+  "version": "1.1.0",
   "description": "The best project",
   "homepage": "https://github.com/kevinrodbeage/release-2.git",
   "main": "index.js",
