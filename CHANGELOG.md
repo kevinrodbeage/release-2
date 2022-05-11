@@ -1,3 +1,11 @@
+## [1.1.0-develop.2](https://github.com/kevinrodbeage/release-2/compare/v1.1.0-develop.1...v1.1.0-develop.2) (2022-05-11)
+
+
+### Bug Fixes
+
+* 2 ([96f5834](https://github.com/kevinrodbeage/release-2/commit/96f58347d549d6fa79c27168caa5654cc7169f56))
+* 3 ([82058f8](https://github.com/kevinrodbeage/release-2/commit/82058f8d07b188f6bc70f3e8f9ee7dcfdb011917))
+
 ## [1.1.0-develop.1](https://github.com/kevinrodbeage/release-2/compare/v1.0.0...v1.1.0-develop.1) (2022-05-11)
 
 
