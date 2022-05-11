@@ -1,16 +1,15 @@
 {
-  "name": "release-2",
-  "version": "1.0.0",
+  "name": "@kevinrodbeage/release-2",
+  "version": "1.0.0-develop.3",
   "description": "The best project",
   "homepage": "https://github.com/kevinrodbeage/release-2.git",
   "main": "index.js",
   "scripts": {
-    "cm": "cz",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cm": "cz"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:kevinrodbeage/release-2.git"
+    "url": "https://github.com/kevinrodbeage/release-2.git"
   },
   "bugs": {
     "url": "https://github.com/kevinrodbeage/release-2/issues"
@@ -20,7 +19,7 @@
     "node": ">=14"
   },
   "keywords": [],
-  "author": "Pepe",
+  "author": "kevinrodbeage",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
