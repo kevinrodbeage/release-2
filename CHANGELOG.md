@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/kevinrodbeage/release-2/compare/v1.1.0...v2.0.0) (2022-06-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* **scope:** cuidado
+
+### Features
+
+* **scope:** descrip 1 ([22c440b](https://github.com/kevinrodbeage/release-2/commit/22c440bd30b6c74c84831cd3777c9e3953d4fb27)), closes [#PRO-666](https://github.com/kevinrodbeage/release-2/issues/PRO-666)
+
 ## [1.1.0](https://github.com/kevinrodbeage/release-2/compare/v1.0.0...v1.1.0) (2022-05-11)
 
 
