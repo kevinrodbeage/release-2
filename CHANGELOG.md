@@ -1,3 +1,15 @@
+## [2.1.0](https://github.com/kevinrodbeage/release-2/compare/v2.0.0...v2.1.0) (2022-06-01)
+
+
+### Features
+
+* **core:** asd ([f1c1bbc](https://github.com/kevinrodbeage/release-2/commit/f1c1bbc00ad4b33dfaee75303dd03105798afe97))
+
+
+### Bug Fixes
+
+* **core:** bug ([140f901](https://github.com/kevinrodbeage/release-2/commit/140f90137169a418fa5fae02d6ba440c9ae71d4a))
+
 ## [2.0.0](https://github.com/kevinrodbeage/release-2/compare/v1.1.0...v2.0.0) (2022-06-01)
 
 
